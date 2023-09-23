@@ -1,0 +1,142 @@
+*{
+  padding :15px;
+  padding-color: #000;
+}
+.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  
+  pointer-events: none;
+  block-size: 40vmin
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-block-size: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.app-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  
+  background-color: #9BA4B5;
+  block-size: 100vh;
+  font-size: 20px;
+  padding-inline-start: 50px;
+  
+}
+S
+.form-container {
+  text-align: center;
+  
+
+  ;
+}
+
+.list {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: start;
+  
+
+  
+}
+
+.phone-book-container {
+  flex-basis: 48%;
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 10px;
+
+  
+
+  
+}
+.phone-list-container {
+  flex-basis: 48%;
+  /*border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;*/
+  
+ /* border: 10px solid #ccc; 
+  padding: 40px;
+  block-size: 500px;*/
+}
+table {
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+td {
+  padding: 5px;
+}
+input[type="text"] {
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-inline-end: 10px;
+  
+}
+.addnewbtn {
+  padding: 10px 20px;
+  background-color: #394867;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  float: left;
+  
+}
+.Ubutton {
+  padding: 10px 20px;
+  background-color: #394867;
+  color:black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-inline-end: 90px;
+}
+.Dbutton{
+  padding: 10px 20px;
+  background-color: #394867;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-inline-end: 10px;
+
+}
+h1,h2{
+  font-family: Papyrus, fantasy;
+}
+
+
