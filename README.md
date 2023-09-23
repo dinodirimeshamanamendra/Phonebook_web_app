@@ -4,13 +4,13 @@ This repository contains a simple React application that allows users to add a n
 
 Key Features:
 
-Input fields for adding a name and phone number.
-Utilizes Axios for making POST requests to a server.
-Minimalistic and user-friendly interface.
-Demonstrates the basics of handling form input in a React application.
-Technologies Used:
+*Input fields for adding a name and phone number.
+*Utilizes Axios for making POST requests to a server.
+*Minimalistic and user-friendly interface.
+*Demonstrates the basics of handling form input in a React application.
+*Technologies Used:
 
 React
-Axios for API requests
-HTML/CSS for the user interface
-This application can be used as a starting point for more complex projects that involve data input and interaction with a backend server. Feel free to clone this repository, customize it, and expand upon it to meet your specific needs.
+*Axios for API requests
+*HTML/CSS for the user interface
+*This application can be used as a starting point for more complex projects that involve data input and interaction with a backend server. Feel free to clone this repository, customize it, and expand upon it to *meet your specific needs.
